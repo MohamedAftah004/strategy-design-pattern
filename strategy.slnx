@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CheckoutAppUsingStrategy/CheckoutAppUsingStrategy.csproj" />
+  <Project Path="strategy/CheckoutApp.csproj" />
+</Solution>
